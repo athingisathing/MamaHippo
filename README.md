@@ -1,0 +1,4 @@
+MamaHippo
+=========
+
+MamaHippo Is an open source Jquery Single Page App (SPA) Framework written in MVC 4 and Visual Studio 11.   Simple simple simple Quick code Lean Start-up Framework.  It is meant to be a light wait focused implementation of all the best of bread tools in MV4 along with other necessities of a next gen web site\app.  Things it will include.   OpenID Social Site&#39;s and tools. Twiter Facebook G+ BabyHippo Control (Private BabyHippo.info Jquery Control) User Feed back tool User Content Editing (Small CMS) JQM Azure CI Test Driven  Optional  Full CMS?? Web API?? Node.js?? Big Data??
